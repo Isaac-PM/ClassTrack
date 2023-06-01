@@ -1,4 +1,4 @@
-# [ClassTrack!](https://isaac-pm.github.io/ClassTrack/)
+# ClassTrack!
 
 *Introducing "ClassTrack!"*
 
